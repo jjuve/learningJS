@@ -1,0 +1,1 @@
+function func(){ document.getElementById("click").innerHTML = "PushedHard";}
